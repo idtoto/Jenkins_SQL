@@ -5,4 +5,6 @@ CREATE  TABLE public.jenkins_vente (
 	produit varchar(10),
   primary key (id)
 
+	
+
 );
