@@ -3,8 +3,5 @@ CREATE TABLE public.jenkins_vente (
 	magasin varchar(10) null,
 	chiffre_affaire int4,
 	produit varchar(10),
-	primary key (id)
-
-	
-	
+	primary key (id)	
 );
