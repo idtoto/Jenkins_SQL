@@ -5,7 +5,4 @@ select id,
        chiffre_affaire,
        produit
 
-
-       
-
 from public.jenkins_vente
