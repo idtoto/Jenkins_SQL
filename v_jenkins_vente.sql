@@ -4,6 +4,8 @@ select id,
        magasin,
        chiffre_affaire,
        produit
+
+
        
 
 from public.jenkins_vente
