@@ -1,1 +1,1 @@
-psql -U postgres -d postgres -f %A%
+psql -U postgres -d postgres -f %var%
